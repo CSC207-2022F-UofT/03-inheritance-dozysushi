@@ -15,6 +15,7 @@ public class HandBag extends Bag{
      * @param color
      * @param capacity
      */
+
     public HandBag(String color, int capacity) {
         /**
          * This is how we call the parent's constructor

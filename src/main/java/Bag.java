@@ -18,6 +18,8 @@ public abstract class Bag {
     private int capacity = 0;
     private String[] contents = {};
 
+    public Bag(String color, int capacity) {
+    }
 
 
     /*
